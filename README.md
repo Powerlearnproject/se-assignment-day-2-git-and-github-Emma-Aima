@@ -2,7 +2,14 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18516988&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+Git is an example of a version control system. Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It's a crucial tool for software development, but it's also useful for any project where you need to track changes, collaborate with others, or revert to previous versions.
 
+The fundamental concepts of version control are:
+1. Repository (Repo): This is the central storage location for your files and their history. It's like a database of your project's versions.
+2. Commits: A commit is a snapshot of your files at a specific point in time. It records the changes you've made since the last commit. Each commit has a unique identifier and a message describing the changes.
+3. Versions/Revisions: These refer to the different states of your files as they evolve over time. Each commit creates a new version.
+4. Changesets/Diffs: A changeset (or diff) represents the specific differences between two versions of a file. It shows what was added, removed, or modified.
+5. 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
