@@ -155,7 +155,9 @@ Tracking Changes:
 3. The "git blame" command lets you see who last modified each line of a file, providing context for changes.
 
 Managing versions:
-1. 
+1. Commits encourages experimentation. When you have made a mistake in a commit, you can easily reverse them to the previous commit.
+2. Commits can be used to tag specific versions of your project or releases. This makes it easy to identify and track different versions on your software or project.
+3. Commit creates an audit trail, they help in collaborative environments, to see exactly who made any changes.
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 
